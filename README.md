@@ -7,7 +7,8 @@ This project analyzes **subscriber behavior, content consumption patterns, and r
 
 🔗 **Links:**  
 - [Challenge Details](https://codebasics.io/challenge/codebasics-resume-project-challenge)  
-- [Interactive Dashboard](#) (Add your Power BI report link here)  
+- [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzc3MWE2OTMtNDVhNS00YTA3LTljMWQtY2Y2ZmQ4MDk2ZTUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+  
 
 ## Problem Statement  
 Lio, a leading telecom provider in India, is planning a **strategic merger** with Jotstar, a top-tier streaming platform. The goal is to **leverage LioCinema’s subscriber base and Jotstar’s content library** to create India’s leading OTT platform.  
